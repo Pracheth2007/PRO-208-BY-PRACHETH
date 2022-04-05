@@ -27,7 +27,7 @@ def openChatWindow():
 
     window=Tk()
 
-    window.title('Messenger')
+    window.title('Music Window')
     window.geometry("500x350")
 
     global name
