@@ -23,7 +23,7 @@ music_upload = None
 def openChatWindow():
 
    
-    print("\n\t\t\t\tIP MESSENGER")
+    print("\n\t\t\t\tIP Music Window")
 
     window=Tk()
 
